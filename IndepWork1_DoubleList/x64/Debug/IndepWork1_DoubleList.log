@@ -1,0 +1,5 @@
+﻿  DoubleList.cpp
+C:\Users\Elina\source\repos\IndepWork1_DoubleList\DoubleList.cpp(29,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  IndepWork1_DoubleList.vcxproj -> C:\Users\Elina\source\repos\IndepWork1_DoubleList\x64\Debug\IndepWork1_DoubleList.exe
